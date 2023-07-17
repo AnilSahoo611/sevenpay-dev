@@ -1,0 +1,103 @@
+html {
+  font-size: 10px;
+}
+.App {
+  text-align: center;
+}
+
+/* code for mobile screen */
+@media only screen and (max-width: 462px) {
+  html {
+    font-size: 7px;
+  }
+}
+a {
+  font-size: 16px;
+}
+a:hover {
+  color: #ff6600;
+  /* font-size: 16px; */
+}
+
+@media only screen and (max-width: 635x) {
+  html {
+    font-size: 7px;
+  }
+}
+
+/* code for footer */
+
+.footer {
+  background-color: #ebebf1;
+
+  padding: 40px;
+
+  margin-top: auto;
+
+  display: flex;
+
+  justify-content: center;
+
+  text-align: start;
+}
+
+.row {
+  display: flex;
+
+  justify-content: space-between;
+
+  margin-left: 50px;
+}
+
+.column {
+  margin-right: 3px;
+}
+
+.link {
+  text-decoration: none;
+
+  color: #46466d;
+
+  font-size: 14px;
+}
+
+.bottomRow {
+  background-color: #0e0e3d;
+
+  color: white;
+
+  text-align: center;
+
+  padding: "5px";
+}
+
+.columnImage {
+  max-width: 100%;
+}
+
+.text {
+  text-align: start;
+
+  font-weight: 400;
+}
+
+.googleplay {
+  margin-top: 5px;
+
+  width: 50%;
+
+  background-color: transparent;
+}
+
+.column2 {
+  display: grid;
+}
+
+.toolText {
+  display: flex;
+}
+
+.icon {
+  display: flex;
+  margin: 6px;
+}
