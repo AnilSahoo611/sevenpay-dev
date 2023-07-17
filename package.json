@@ -1,7 +1,7 @@
 {
   "name": "sevenpay",
   "version": "0.1.0",
-  "homepage": "https://AnilSahoo611.github.io/",
+  "homepage": "https://AnilSahoo611.github.io/sevenpay-dev",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "version_number",
